@@ -1,2 +1,2 @@
 #!/bin/bash
-6-third_line
+head -3 iacta | tail -1
