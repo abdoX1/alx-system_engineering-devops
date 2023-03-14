@@ -1,1 +1,1 @@
-hello guys
+Shell, init files, variables and expansions
